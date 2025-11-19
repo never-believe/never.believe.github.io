@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcom to my home page"
+title: "WELCOME TO MY HOME PAGE!Here you'll find my project,blog posts,and contact details."
 author_profile: true
 redirect_from: 
   - /about/
